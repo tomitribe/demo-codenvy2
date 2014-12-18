@@ -1,0 +1,7 @@
+== demo-codenvy2
+
+Resource can be found in `com.mycompany` package.
+
+
+
+https://codenvy.com/f?id=xmskixk88we8iqt1[Edit this project in Codenvy]
